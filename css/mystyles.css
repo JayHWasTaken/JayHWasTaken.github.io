@@ -3,9 +3,7 @@ background-image: url(https://www.aulankogolf.fi/i/ylakuva/alasivut/img014.jpg);
 background-repeat: no-repeat;
 position: relative;
 background-size: cover;
-width: 100%;
-height: 100%;
-color: white;
+color: #fff !important;
 text-shadow:
 		-1px -1px 0 #000,
 		1px -1px 0 #000,
